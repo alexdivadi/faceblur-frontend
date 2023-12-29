@@ -1,1 +1,0 @@
- /Users/davidallen/development/faceblur/frontend/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/davidallen/development/faceblur/frontend/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/davidallen/development/faceblur/frontend/l10n.yaml /Users/davidallen/development/faceblur/frontend/lib/src/localization/app_en.arb
